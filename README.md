@@ -64,9 +64,12 @@ By uniting **genomics, trusted medical knowledge, and collaborative research** w
 ---
 
 ## Repository Contents
-- `docs/` – Whitepapers and case studies (to be added)  
-- `examples/` – Example queries, demo scripts (to be added)  
-- `README.md` – Project summary (this file)  
+- `assets/` – images use case
+- `docs/` – Whitepapers and case studies
+- `LLM/` – Example queries, demo scripts 
+- `ML Clustering/` – Example queries, demo scripts 
+- `ML Prediction/` – Example queries, demo scripts 
+- `README.md` – Project summary
 
 ---
 
