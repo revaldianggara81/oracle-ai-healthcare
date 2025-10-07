@@ -14,8 +14,7 @@ The project demonstrates how **Oracle Cloud Infrastructure (OCI)** and Oracle AI
 
 ## Key Innovations
 
-### 1. Genome DNA Prediction
-AI models analyze genomic sequences to identify genetic risk factors, enabling **early detection** and **personalized treatment strategies**.
+### 1. FHIR
 
 ### 2. LLM Disease Question-Answering
 Healthcare professionals, researchers, and citizens can ask questions in **multiple languages** and receive **clear, evidence-based answers** powered by Oracle’s AI.
@@ -23,11 +22,7 @@ Healthcare professionals, researchers, and citizens can ask questions in **multi
 ### 3. LLM RAG with Trusted Sources
 Oracle’s **Retrieval-Augmented Generation (RAG)** framework connects LLMs to curated and trusted medical articles, ensuring responses are **accurate, explainable, and grounded in verified knowledge**.
 
-### 4. Oracle Research Platform (Unified Health Records)
-A collaborative research environment where:
-- **Researchers and students** securely access and contribute to health data.  
-- **Medical communities** share insights to drive innovation.  
-- **AI tools** assist in drafting research papers, accelerating scientific discovery.  
+### 4. Genome DNA Prediction
 
 ---
 
