@@ -71,8 +71,8 @@ By uniting **genomics, trusted medical knowledge, and collaborative research** w
 ---
 
 ## Authors
-- **Mochammad Revaldi Anggara** – Principal AI Engineer, Oracle Solution Center JAPAC  
-- Oracle AI & Cloud Engineering Team  
+- Oracle Solution Center, JAPAC
+- Oracle Solution Engineer Team, Indonesia
 
 ---
 
