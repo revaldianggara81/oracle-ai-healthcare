@@ -43,9 +43,9 @@ A collaborative research environment where:
 
 ## High-Level Architecture
 - **Platform**: Oracle Cloud Infrastructure (OCI)  
-- **Data Source**: National unified health record system  
+- **Data Source**: National unified health record system  (public dataset)
 - **AI Models**: Genomic AI, Oracle Select AI, fine-tuned LLMs (multilingual healthcare focus)  
-- **Governance**: Compliant with local healthcare data regulations and security standards  
+- **Governance**: Designed in alignment with **international healthcare data standards** (e.g., HL7 FHIR, HIPAA, and GDPR-compliant practices) to ensure data interoperability, security, and privacy.  
 
 ---
 
