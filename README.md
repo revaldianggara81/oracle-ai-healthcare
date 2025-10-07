@@ -22,7 +22,7 @@ Healthcare professionals, researchers, and citizens can ask questions in **multi
 ### 3. LLM RAG with Trusted Sources
 Oracle’s **Retrieval-Augmented Generation (RAG)** framework connects LLMs to curated and trusted medical articles, ensuring responses are **accurate, explainable, and grounded in verified knowledge**.
 
-### 4. Genome DNA Prediction
+### 4. Genomic
 
 ---
 
