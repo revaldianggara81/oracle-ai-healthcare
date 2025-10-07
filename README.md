@@ -72,7 +72,7 @@ By uniting **genomics, trusted medical knowledge, and collaborative research** w
 
 ## Authors
 - Oracle Solution Center, JAPAC
-- Oracle Solution Engineer Team, Indonesia
+- Oracle Solution Engineer, Indonesia
 
 ---
 
